@@ -1,0 +1,89 @@
+[
+    {
+      "order_id": "1",
+      "order_total": 150.0,
+      "order_date": "2023-09-23",
+      "shipping_address": "100 Dundas Street East",
+      "customer_name": "John Smith",
+      "customer_email": "john@example.com",
+      "line_items": [
+        {
+          "line_item_id": "101",
+          "product_id": "A001",
+          "product_name": "Valentines Box",
+          "quantity": 1,
+          "price": 50.0
+        },
+        {
+          "line_item_id": "102",
+          "product_id": "P001",
+          "product_name": "Red Roses Bouquet",
+          "quantity": 1,
+          "price": 30.0
+        },
+        {
+          "line_item_id": "103",
+          "product_id": "C001",
+          "product_name": "Love Card",
+          "quantity": 1,
+          "price": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "2",
+      "order_total": 120.0,
+      "order_date": "2023-08-15",
+      "shipping_address": "100 Queen Street East",
+      "customer_name": "Rob Smith",
+      "customer_email": "rob@example.com",
+      "line_items": [
+        {
+          "line_item_id": "104",
+          "product_id": "A001",
+          "product_name": "Valentines Box",
+          "quantity": 1,
+          "price": 50.0
+        },
+        {
+          "line_item_id": "105",
+          "product_id": "P001",
+          "product_name": "Red Roses Bouquet",
+          "quantity": 1,
+          "price": 30.0
+        },
+        {
+          "line_item_id": "106",
+          "product_id": "C001",
+          "product_name": "Love Card",
+          "quantity": 1,
+          "price": 5.0
+        }
+      ]
+    },
+    {
+      "order_id": "3",
+      "order_total": 80.0,
+      "order_date": "2023-07-19",
+      "shipping_address": "100 King Street East",
+      "customer_name": "Dan Smith",
+      "customer_email": "dan@example.com",
+      "line_items": [
+        {
+          "line_item_id": "107",
+          "product_id": "B001",
+          "product_name": "Birthday Box",
+          "quantity": 1,
+          "price": 40.0
+        },
+        {
+          "line_item_id": "108",
+          "product_id": "B002",
+          "product_name": "Birthday Cupcake",
+          "quantity": 1,
+          "price": 20.0
+        }
+      ]
+    }
+  ]
+  

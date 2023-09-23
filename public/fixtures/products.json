@@ -1,0 +1,23 @@
+{
+    "A001": {
+      "name": "Valentines Box",
+      "price": 50.0
+    },
+    "P001": {
+      "name": "Red Roses Bouquet",
+      "price": 30.0
+    },
+    "C001": {
+      "name": "Love Card",
+      "price": 5.0
+    },
+    "B001": {
+      "name": "Birthday Box",
+      "price": 40.0
+    },
+    "B002": {
+      "name": "Birthday Cupcake",
+      "price": 20.0
+    }
+  }
+  
